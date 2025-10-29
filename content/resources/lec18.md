@@ -4,8 +4,6 @@ description: Lecture notes on spectral clustering, random walks, and Markov chai
 file: /courses/6-867-machine-learning-fall-2006/0871ac04afeb2df4e9b69738a6d0d38b_lec18.pdf
 file_size: 167198
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

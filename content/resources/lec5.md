@@ -5,8 +5,6 @@ description: Lecture notes on linear regression, estimator bias and variance, an
 file: /courses/6-867-machine-learning-fall-2006/9e7f8fb89d65d7572980907fd6d12315_lec5.pdf
 file_size: 218778
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

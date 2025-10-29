@@ -38,7 +38,6 @@
     "website": "6-867-machine-learning-fall-2006"
   },
   "course_title": "Machine Learning",
-  "hide_download": true,
   "course_description": "6.867 is an introductory course on machine learning which gives an overview of many concepts, techniques, and algorithms in machine learning, beginning with topics such as classification and linear regression and ending up with more recent topics such as boosting, support vector machines, hidden Markov models, and Bayesian networks. The course will give the student the basic ideas and intuition behind modern machine learning methods as well as a bit more formal understanding of how, why, and when they work. The underlying theme in the course is statistical inference as it provides the foundation for most of the methods covered.\n",
   "department_numbers": [
     "6"
@@ -49,7 +48,6 @@
     "content": "4f9f974b-8075-2a5d-baaf-0f09729694d1",
     "website": "6-867-machine-learning-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

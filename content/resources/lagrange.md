@@ -4,8 +4,6 @@ description: Short tutorial on Lagrange multipliers.
 file: /courses/6-867-machine-learning-fall-2006/47e2537db9248268c9e20bbaa98f0c4b_lagrange.pdf
 file_size: 91963
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

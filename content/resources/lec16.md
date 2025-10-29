@@ -6,8 +6,6 @@ description: Lecture notes on mixture of Gaussians, the EM algorithm, additional
 file: /courses/6-867-machine-learning-fall-2006/735de5b1396c8364cc51a5b1d479760e_lec16.pdf
 file_size: 248926
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

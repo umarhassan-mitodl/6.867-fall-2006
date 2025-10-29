@@ -4,8 +4,6 @@ description: Lecture notes on kernel optimization and model selection.
 file: /courses/6-867-machine-learning-fall-2006/2051efc0159bf145f2050469b7589fc5_lec9.pdf
 file_size: 176511
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

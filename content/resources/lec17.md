@@ -5,8 +5,6 @@ description: Lecture notes on mixture models and clustering, k-means, and distan
 file: /courses/6-867-machine-learning-fall-2006/5450b1187d84d8ea1cd99ac75526212c_lec17.pdf
 file_size: 179776
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

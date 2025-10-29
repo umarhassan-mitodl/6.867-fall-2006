@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides midterm and final exams from the course. Exams
   from previous semesters were provided to students as a study reference.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

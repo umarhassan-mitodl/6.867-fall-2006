@@ -4,8 +4,6 @@ description: Lecture notes on support vector machine (SVM), kernels, and kernel 
 file: /courses/6-867-machine-learning-fall-2006/33a6c8e66c62602f9f03ab6a2c632eed_lec8.pdf
 file_size: 136565
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture notes on perceptron, convergence, and generalization.
 file: /courses/6-867-machine-learning-fall-2006/df535ce359aad52f48c203db64558fe8_lec2.pdf
 file_size: 122852
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

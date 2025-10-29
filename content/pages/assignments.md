@@ -2,8 +2,6 @@
 content_type: page
 description: The assignments section provides problem sets, solutions, and supporting
   files from the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

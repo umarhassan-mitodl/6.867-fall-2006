@@ -5,8 +5,6 @@ description: Solutions to a final exam on machine learning and neural networks f
 file: /courses/6-867-machine-learning-fall-2006/85d4ef5363a3445d33ca956c394beec6_final_f01soln.pdf
 file_size: 217444
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

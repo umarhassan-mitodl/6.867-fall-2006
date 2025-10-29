@@ -4,8 +4,6 @@ description: Problem set errata.
 file: /courses/6-867-machine-learning-fall-2006/45588b13b66dea8ca5ff7e27f10099f7_hw2errata.txt
 file_size: 2717
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

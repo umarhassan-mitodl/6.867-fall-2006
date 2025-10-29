@@ -4,8 +4,6 @@ description: Sample MATLAB? script.
 file: /courses/6-867-machine-learning-fall-2006/e24fa1516658ce746005759d17b9a441_matrix.m
 file_size: 1442
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

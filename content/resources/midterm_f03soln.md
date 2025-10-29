@@ -5,8 +5,6 @@ description: Solutions to a mid-term exam on machine learning and neural network
 file: /courses/6-867-machine-learning-fall-2006/a5dae01d24632b23c2755e6eb7e0b4ad_midterm_f03soln.pdf
 file_size: 213869
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

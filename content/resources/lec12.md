@@ -6,8 +6,6 @@ description: Lecture notes on model selection criteria, feature subset selection
 file: /courses/6-867-machine-learning-fall-2006/fa94ca034b2700e553744c689fb9360e_lec12.pdf
 file_size: 180790
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: MATLAB? script for a problem set.
 file: /courses/6-867-machine-learning-fall-2006/7299bbfeb0a9353f2a416e7da351828b_perceptron_train.m
 file_size: 591
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

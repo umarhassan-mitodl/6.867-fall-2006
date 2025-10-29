@@ -4,8 +4,6 @@ description: Final exam on machine learning and neural networks from Fall 2004.
 file: /courses/6-867-machine-learning-fall-2006/57667e1d2442cc589da5051663606fc6_final_f04.pdf
 file_size: 385053
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

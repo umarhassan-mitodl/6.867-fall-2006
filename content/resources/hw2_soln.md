@@ -4,8 +4,6 @@ description: Problem set solutions.
 file: /courses/6-867-machine-learning-fall-2006/be6c46f4bb8a2e709c04533b7979d51f_hw2_soln.pdf
 file_size: 308892
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

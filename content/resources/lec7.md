@@ -5,8 +5,6 @@ description: Lecture notes on the kernel form of linear regression, kernels, exa
 file: /courses/6-867-machine-learning-fall-2006/1b55295adbca700abfa7356a4f832e33_lec7.pdf
 file_size: 184194
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

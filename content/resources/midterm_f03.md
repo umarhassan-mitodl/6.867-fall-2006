@@ -4,8 +4,6 @@ description: Mid-term exam on machine learning and neural networks from Fall 200
 file: /courses/6-867-machine-learning-fall-2006/e422ff477d12ba1bf2544e6293535c51_midterm_f03.pdf
 file_size: 153699
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

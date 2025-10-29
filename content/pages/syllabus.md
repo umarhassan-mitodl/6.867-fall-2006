@@ -3,8 +3,6 @@ content_type: page
 description: The syllabus section provides the course description and information
   about problem sets, exams, the course project, grading, course texts, recommended
   citation, and the course calendar.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -120,7 +118,7 @@ Duda, Richard, Peter Hart, and David Stork. _Pattern Classification_. 2nd ed. Ne
 
 Hastie, T., R. Tibshirani, and J. H. Friedman. _The Elements of Statistical Learning: Data Mining, Inference and Prediction_. New York, NY: Springer, 2001. ISBN: 9780387952840.
 
-MacKay, David. _Information Theory, Inference, and Learning Algorithms_. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521642989. Available on-line [here](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html).
+MacKay, David. _Information Theory, Inference, and Learning Algorithms_. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521642989. Available on-line {{% resource_link "20bfdd25-e2c6-4683-94da-05282dc89fff" "here" %}}.
 
 Mitchell, Tom. _Machine Learning_. New York, NY: McGraw-Hill, 1997. ISBN: 9780070428072.
 

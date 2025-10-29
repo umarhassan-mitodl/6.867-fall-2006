@@ -5,8 +5,6 @@ description: Lecture notes on model selection criteria, structural risk minimiza
 file: /courses/6-867-machine-learning-fall-2006/d5a30e80d0ae7a6796186f40640d3b7d_lec10.pdf
 file_size: 196382
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

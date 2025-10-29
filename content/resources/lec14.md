@@ -5,8 +5,6 @@ description: Lecture notes on margin and generalization, linear classifiers, ens
 file: /courses/6-867-machine-learning-fall-2006/44b0ad92b2f9d58e590783fa97b5edf3_lec14.pdf
 file_size: 147439
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
